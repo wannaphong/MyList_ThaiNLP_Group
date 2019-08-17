@@ -1,6 +1,6 @@
 # My List Thai NLP Group
 
-Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
+My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
 ## Resource
 
