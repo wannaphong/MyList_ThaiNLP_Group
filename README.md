@@ -74,6 +74,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
 - [ตัดคำใน pythainlp 2.0 ด้วย class Tokenizer](https://www.facebook.com/groups/colab.thailand/permalink/1206405959534760/)
 - [ตัดคำไทยด้วย V8 Break Iterator](https://www.facebook.com/groups/colab.thailand/permalink/1249986441843378/)
+- [tokenization-benchmark-visualization](https://www.facebook.com/groups/thainlp/permalink/818607528520739/)
 
 ### Treebank
 
