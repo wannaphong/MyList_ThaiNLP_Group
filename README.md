@@ -125,6 +125,8 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [พัฒนาระบบ Search ของ Wongnai ด้วย Machine Learning ตอนที่ 2: Query Understanding](https://www.facebook.com/groups/thainlp/permalink/723418924706267/)
 - [ไฟล์รวบรวมคำตอบจาก experts ด้าน NLP](https://www.facebook.com/groups/thainlp/permalink/713360759045417/)
 - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
+- [การเดินทางของ Thai NLP](https://www.facebook.com/groups/thainlp/permalink/576173102764184/)
+- [การพัฒนาเครือข่ายคำ (WordNet) โดย ผศ.ดร. วิโรจน์ อรุณมานะกุล (จุฬาลงกรณ์มหาวิทยาลัย)](https://www.facebook.com/groups/thainlp/permalink/415806505467512/)
 
 ## Scholarship
 
