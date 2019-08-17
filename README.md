@@ -33,6 +33,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 ### thai2fit
 
 - [นิทาน thai2fit v0.32](https://www.facebook.com/groups/thainlp/permalink/752188331829326/)
+- [thai2vec 0.2](https://www.facebook.com/groups/thainlp/permalink/585351408513020/)
 
 ## Semantic
 
