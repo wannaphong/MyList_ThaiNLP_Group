@@ -2,7 +2,7 @@
 
 My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
-ถึงวันที่ 26 ก.ค. 2018
+ปรับปรุง 20 ส.ค. 2019 ถึงวันที่ 26 ก.ค. 2018
 
 ## Resource
 
@@ -128,6 +128,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [Text to Speech ภาษาไทย บน Colab](https://www.facebook.com/groups/thainlp/permalink/655557004825793/)
 - [thpronun python wrapper](https://www.facebook.com/groups/thainlp/permalink/650803928634434/)
 - [Expandable Tree in Colab](https://www.facebook.com/groups/thainlp/permalink/629039414144219/)
+- [เทคนิค การสร้างดิกตัดคำเฉพาะทาง และตรวจคำผิด](https://www.facebook.com/groups/colab.thailand/permalink/1304749899700365/)
 
 ## Video
 
