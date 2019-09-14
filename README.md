@@ -7,6 +7,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 ## Resource
 
 - [Thai Natural Language Processing (Thai NLP) Resource](https://github.com/kobkrit/nlp_thai_resources)
+- [myth : Myanmar and Thai Language Resources](https://github.com/alvations/myth)
 
 ## For the beginning
 
