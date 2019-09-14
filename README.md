@@ -79,6 +79,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [wongnai dataset](https://www.facebook.com/groups/thainlp/permalink/681378768910283/)
 - [XNLI : The Cross-Lingual NLI Corpus (XNLI)](https://www.facebook.com/groups/thainlp/permalink/671426626572164/)
 - [KVIS Thai OCR Dataset](https://www.facebook.com/groups/thainlp/permalink/653636565017837/)
+- [เพลงงจาก Siamzone](https://www.facebook.com/groups/thainlp/permalink/866461807068644/)
 
 ## Tools
 
