@@ -2,7 +2,7 @@
 
 My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
-ปรับปรุง 20 ส.ค. 2019 ถึงวันที่ 26 ก.ค. 2018
+ปรับปรุง 23 พ.ย. 2019 ถึงวันที่ 26 ก.ค. 2018
 
 ## Resource
 
@@ -19,7 +19,9 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
 ## sentiment analysis
 
+- [ทำไมเราถึงควรทำ sentiment analysis ด้วยข้อมูลของตัวเอง?](https://www.facebook.com/groups/thainlp/permalink/892456407802517/)
 - [+/-](https://www.facebook.com/groups/thainlp/permalink/766500307064795/)
+- [Dataset คำเชิงบวก คำเชิงลบ ภาษาไทย](https://www.facebook.com/groups/thainlp/permalink/891060007942157/) 
 
 ## Text to speech
 
@@ -32,6 +34,11 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [word2word](https://www.facebook.com/groups/thainlp/permalink/770026866712139/)
 - [OpenAI พัฒนาเทคนิค Language Model ใหม่](https://www.facebook.com/groups/thainlp/permalink/739970766384416/)
 - [Comparative Study of Language Models on Thai Social Media Data](https://www.facebook.com/groups/thainlp/permalink/795048317543327/)
+- [Text-to-Text Transformer จาก Google](https://www.facebook.com/groups/thainlp/permalink/900497203665104/)
+-  [รวม resource ต่าง ๆ ไว้ศึกษา Transformer](https://www.facebook.com/groups/thainlp/permalink/888074098240748/)
+-  ["Misspelling Oblivious (word) Embeddings (MOE) by Facebook" เสนอวิธีการจัดการกับ Out-of-Vocabulary (OOV) ในการ Embedding](https://www.facebook.com/permalink.php?story_fbid=130105028374921&id=108558757196215) 
+-  [Language Model ที่ออกแบบมาให้ interact กับคน เพื่อควบคุมทิศทางการ generate text ได้](https://www.facebook.com/groups/thainlp/permalink/867058223675669/)
+- [XLM ออกอัพเดต สำหรับ 15 ภาษาหลักใน XNLI (มีไทย)](https://www.facebook.com/groups/thainlp/permalink/853263868388438/)
 
 ### thai2fit
 
@@ -42,6 +49,8 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 
 - [Visualize ดูว่าข้างใน BERT ทำงานยังไง](https://www.facebook.com/groups/thainlp/permalink/707865709594922/)
 - [BERT for Thai](https://www.facebook.com/groups/thainlp/permalink/692573737790786/)
+- [ประมวลภาษาแบบ Transfer Learning ด้วย Transformers (BERT)](https://www.facebook.com/groups/thainlp/permalink/909124959468995/) 
+- [แยกคำหลายความหมาย ด้วย BERT](https://www.facebook.com/groups/colab.thailand/permalink/1356883724486982/)
 
 ## Word2Vec
 
@@ -59,11 +68,39 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 ## Text Classification
 
 - [Thai Text Classification Benchmarks](https://www.facebook.com/groups/thainlp/permalink/754699218244904/)
+- [MuitlFiT: ทำ text classification ข้ามภาษา](https://www.facebook.com/groups/thainlp/permalink/919678858413605/)
+- [True Voice  benchmark  90%](https://www.facebook.com/groups/thainlp/permalink/899568983757926/)
 
 ### Question
 
 - [ช่วยจัดกลุ่มหรือช่วย suggest](https://www.facebook.com/groups/thainlp/permalink/847985165582975/)
 - [ทำ Text classification แล้ว Data imbalanced มาก ๆ](https://www.facebook.com/groups/thainlp/permalink/676944039353756/)
+
+## Parsing 
+
+- [เอา word embedding มาบีบขนาดลง ใช้แทน PoS มาทำ parsing](https://www.facebook.com/groups/thainlp/permalink/919039951810829/)
+
+## NER
+
+- [ThaiNER](https://www.facebook.com/groups/thainlp/permalink/647191652328995/)
+- [Thai Named Entity Recognition with BiLSTM-CRF using Word/Character Embedding (Keras)](https://www.facebook.com/groups/thainlp/permalink/902333936814764/)
+
+## Text 2 SQL
+
+- [CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases](https://www.facebook.com/groups/thainlp/permalink/870647339983424/) 
+
+##  Speech Emotion Recognition : SER 
+
+- [การออกแบบสถานที่บันทึกเสียง](https://www.facebook.com/AIResearch.in.th/posts/150210409681635)
+
+## NLU
+
+-  [Adversarial NLI](https://www.facebook.com/groups/thainlp/permalink/907117203003104/)
+-  [SuperGLUE](https://www.facebook.com/groups/thainlp/permalink/904610103253814/) 
+
+## Chatbot
+
+- [พัฒนาอย่างไร พัฒนาเองหรือใช้บริการ](https://www.facebook.com/groups/thainlp/permalink/910500985998059/)
 
 ## Dataset
 
@@ -80,12 +117,23 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [XNLI : The Cross-Lingual NLI Corpus (XNLI)](https://www.facebook.com/groups/thainlp/permalink/671426626572164/)
 - [KVIS Thai OCR Dataset](https://www.facebook.com/groups/thainlp/permalink/653636565017837/)
 - [เพลงงจาก Siamzone](https://www.facebook.com/groups/thainlp/permalink/866461807068644/)
+- [Dataset ไทยรัฐ 228k - สรุปข่าว](https://www.facebook.com/groups/thainlp/permalink/905348566513301/)
+- [XQuAD มีแปลเป็น 10 ภาษา(มีไทยด้วย)](https://www.facebook.com/groups/thainlp/permalink/903389243375900/)
+- [Leipzig Corpora Collection : Search in 428 Corpus-Based Monolingual Dictionaries for 252 Languages.](https://www.facebook.com/groups/thainlp/permalink/893031631078328/)
+- [สร้าง corpus มุกภาษาไทย](https://www.facebook.com/groups/thainlp/permalink/869418040106354/)
+- [Thai-Clickbait - The dataset for Thai Clickbait classification](https://www.facebook.com/groups/thainlp/permalink/869022500145908/) 
+-  [wisesight-1000](https://www.facebook.com/arthit/posts/10156145258971086)
 
 ## Tools
 
 - [LASER - new library from Facebook to calculate and use multilingual sentence embeddings including Thai.](https://www.facebook.com/groups/thainlp/permalink/726619124386247/)''
 - [library สำหรับ train k-mean clustering model ภาษาไทย](https://www.facebook.com/groups/thainlp/permalink/649076715473822/)
 - [ThaiTextUtility](https://www.facebook.com/groups/thainlp/permalink/623218094726351/)
+- [Wordless : An Integrated Corpus Tool with Multi-Language Support for the Study of Language, Literature, and Translation](https://github.com/BLKSerene/Wordless) 
+- [Corpus Crawler](https://www.facebook.com/groups/thainlp/permalink/903940606654097/)
+- [PyTorch-Struct สำหรับทำพวก hmm, crf ด้วย PyTorch บน GPU](https://www.facebook.com/groups/thainlp/permalink/903784810003010/)
+- [ทำ NLP บน Elasticsearch](https://www.facebook.com/groups/thainlp/permalink/901413993573425/) 
+-  [ssg - CRF syllable segmenter for Thai](https://www.facebook.com/groups/thainlp/permalink/869017626813062/)
 
 ### ASR
 
@@ -97,6 +145,8 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [ตัดคำไทยด้วย V8 Break Iterator](https://www.facebook.com/groups/colab.thailand/permalink/1249986441843378/)
 - [tokenization-benchmark-visualization](https://www.facebook.com/groups/thainlp/permalink/818607528520739/)
 - [ตัดคำภาษาไทยด้วย Swift - Natural Langauge Framework](https://www.facebook.com/groups/thainlp/permalink/662497494131744/)
+-  [MudYom (มัดย้อม) เป็นเครื่องมือสำหรับทำ pre/post-processing ข้อความ](https://www.facebook.com/groups/thainlp/permalink/869019110146247/) 
+- [Attacut](https://www.facebook.com/groups/thainlp/permalink/859992141048944/)
 
 ### Treebank
 
@@ -131,6 +181,13 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [thpronun python wrapper](https://www.facebook.com/groups/thainlp/permalink/650803928634434/)
 - [Expandable Tree in Colab](https://www.facebook.com/groups/thainlp/permalink/629039414144219/)
 - [เทคนิค การสร้างดิกตัดคำเฉพาะทาง และตรวจคำผิด](https://www.facebook.com/groups/colab.thailand/permalink/1304749899700365/)
+- [subword และตัดคำ tf.text](https://www.facebook.com/groups/thainlp/permalink/920868881627936/)
+- [สอนเรื่อง Attention และ Transformers ครับ](https://www.facebook.com/groups/colab.thailand/permalink/1372843459557675/) 
+-  [Visualize คู่ประโยคเป็น vector](https://www.facebook.com/groups/colab.thailand/permalink/1356068384568516/) 
+-  [ใช้ Amazon Translate แปลภาษา](https://www.facebook.com/groups/colab.thailand/permalink/1339616606213694/)
+-  [เปรียบเทียบ dependency แบบเกษตร กับ UD](https://www.facebook.com/groups/colab.thailand/permalink/1308569562651732/) 
+-  [เครื่องมือช่วยสร้าง dependency parse และ visualize ประโยค](https://www.facebook.com/groups/colab.thailand/permalink/1307739429401412/) 
+-  [เปรียบเทียบ คำที่ใช้เยอะ จาก 2 แหล่ง](https://www.facebook.com/groups/colab.thailand/permalink/1305292292979459/) 
 
 ## Video
 
@@ -141,6 +198,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - วิดีโอเกี่ยวกับ Thai NLP ในงาน PyCon Thailand 2018 ที่ผ่านมาครับ
 - [สรุป](https://www.facebook.com/groups/thainlp/permalink/524485237932971/) 2 นาที Paper สังเคราะห์เสียงของ Google
 - [รายละเอียดเรื่อง Contact Center AI](https://www.facebook.com/groups/thainlp/permalink/616506468730847/)
+-  [VDO สอน NLP ที่ Stanford](https://www.facebook.com/groups/thainlp/permalink/860073961040762/)
 
 ## Thai NLP Meetup
 
@@ -212,6 +270,21 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [AI จะเรียนความหมาย จาก text ล้วนๆ ได้ไหม](https://www.facebook.com/groups/thainlp/permalink/643426399372187/)
 - [ทำ sequence labeling ง่ายๆ ด้วย CRF](https://www.facebook.com/groups/thainlp/permalink/602959443418883/)
 - [Westworld และ Game of Thrones ถูกพูดถึงอย่างไรบ้างบน Pantip.com](https://www.facebook.com/groups/thainlp/permalink/624741757907318/)
+- [สรุปงาน EMNLP ที่ฮ่องกง](https://www.facebook.com/groups/thainlp/permalink/922850294763128/)
+- [หนังสือเรื่อง Swarm Intelligence](https://www.facebook.com/groups/thainlp/permalink/917329515315206/)
+- [ตามหาชื่อลูก](https://www.facebook.com/groups/thainlp/permalink/913984128983078/)
+- [สร้าง search engine แบบง่าย ๆ ใช้ editdistance ในการหาชื่อที่เขียนเหมือนกับพ่อแม่](https://www.facebook.com/groups/thainlp/permalink/919357375112420/)
+-  [ZEN เก่งสุดของ NER, ตัดคำภาษาจีน](https://www.facebook.com/groups/thainlp/permalink/912221705825987/)
+-  [Facebook อธิบายวิธีคัดกรอง common crawl](https://www.facebook.com/groups/thainlp/permalink/910080886040069/)
+- [อ.วิโรจน์ สอน UD พา tag](https://www.facebook.com/groups/thainlp/permalink/910500985998059/)
+- [Is there a sentence in Thai?](https://www.facebook.com/groups/thainlp/permalink/902299506818207/)
+- [Andrew Ng แนะนำวิธีอ่าน paper](https://www.facebook.com/groups/thainlp/permalink/892354354479389/)
+- [Grammarly บริษัทที่ใช้ Lisp](https://www.facebook.com/groups/thainlp/permalink/890866147961543/)
+-  [งาน West Coast NLP](https://www.facebook.com/groups/thainlp/permalink/886463298401828/) 
+-  [สรุปเนื้อหาจากงาน Data Science and Engineering Workshop 2019: The future of Thai NLP](https://www.facebook.com/groups/thainlp/permalink/879806982400793/) 
+-  [Transfer Learning และ Active Learning ไม่ค่อยมีคนทำ](https://www.facebook.com/groups/thainlp/permalink/868067790241379/)
+-  [ใช้ RNN ระดับ word และระดับ character มาช่วยกัน](https://www.facebook.com/groups/thainlp/permalink/864366170611541/) 
+-  [เทคนิคหา word vector ที่จัดการกับคำสะกดผิดได้ด้วย](https://www.facebook.com/groups/thainlp/permalink/855855228129302/)
 
 ## Scholarship
 
@@ -222,6 +295,7 @@ My Bookmark from [ThaiNLP Group](https://www.facebook.com/groups/thainlp/)
 - [PyThaiNLP 2019](https://www.facebook.com/groups/thainlp/permalink/715357515512408/)
 - [PyThaiNLP 2018](https://www.facebook.com/groups/thainlp/permalink/523819454666216/)
 - [ความต้องการคลังข้อมูล NLP 2018](https://www.facebook.com/groups/thainlp/permalink/642885296092964/)
+- [โพลล์ : ภาษาไทยมีสิ่งที่เรียกว่า "ประโยค" หรือไม่?](https://www.facebook.com/groups/thainlp/permalink/901863070195184/)
 
 ## Post Thai NLP Group
 
